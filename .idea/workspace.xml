@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="8b359767-da77-491f-9fcf-b43cd23e9577" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-admin-server/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/cjzf-admin-server.jar" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/cjzf-admin-server.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/cjzf-admin-server.jar.original" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/cjzf-admin-server.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin$NotifierConfig.class" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin$NotifierConfig.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin$SecurityConfig.class" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin$SecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin.class" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/classes/com/cjzf/Admin.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/surefire-reports/TEST-com.cjzf.AdminTests.xml" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/surefire-reports/TEST-com.cjzf.AdminTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/surefire-reports/com.cjzf.AdminTests.txt" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/surefire-reports/com.cjzf.AdminTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-admin-server/target/test-classes/com/cjzf/AdminTests.class" afterPath="$PROJECT_DIR$/cjzf-admin-server/target/test-classes/com/cjzf/AdminTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-aggregator/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-aggregator/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/cjzf-aggregator.jar" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/cjzf-aggregator.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/cjzf-aggregator.jar.original" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/cjzf-aggregator.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/classes/com/cjzf/Turbine.class" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/classes/com/cjzf/Turbine.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/surefire-reports/TEST-com.cjzf.TurbineTests.xml" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/surefire-reports/TEST-com.cjzf.TurbineTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/surefire-reports/com.cjzf.TurbineTests.txt" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/surefire-reports/com.cjzf.TurbineTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-aggregator/target/test-classes/com/cjzf/TurbineTests.class" afterPath="$PROJECT_DIR$/cjzf-aggregator/target/test-classes/com/cjzf/TurbineTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-api-gateway/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-api-gateway/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/cjzf-api-gateway.jar" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/cjzf-api-gateway.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/cjzf-api-gateway.jar.original" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/cjzf-api-gateway.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/Zuul.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/Zuul.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/service/UserService.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/service/UserService.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/config/SwaggerConfigOfApiGateway.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/config/SwaggerConfigOfApiGateway.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/controller/JWTController.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/controller/JWTController.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/controller/TestUserPwd.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/com/cjzf/web/controller/TestUserPwd.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/surefire-reports/TEST-com.cjzf.web.controller.JWTControllerTest.xml" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/surefire-reports/TEST-com.cjzf.web.controller.JWTControllerTest.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/surefire-reports/com.cjzf.web.controller.JWTControllerTest.txt" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/surefire-reports/com.cjzf.web.controller.JWTControllerTest.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/test-classes/com/cjzf/TestAll.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/test-classes/com/cjzf/TestAll.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-api-gateway/target/test-classes/com/cjzf/web/controller/JWTControllerTest.class" afterPath="$PROJECT_DIR$/cjzf-api-gateway/target/test-classes/com/cjzf/web/controller/JWTControllerTest.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-common/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/src/main/resources/generatorConfig.properties" afterPath="$PROJECT_DIR$/cjzf-common/src/main/resources/generatorConfig.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-common/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/cjzf-common-1.0.jar" afterPath="$PROJECT_DIR$/cjzf-common/target/cjzf-common-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/META-INF/spring-configuration-metadata.json" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/META-INF/spring-configuration-metadata.json" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/SpringCloudApplication.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/SpringCloudApplication.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/dao/BookMapper.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/dao/BookMapper.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/dao/UserMapper.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/dao/UserMapper.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/Book.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/Book.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$Criteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$Criteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$Criterion.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$Criterion.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$GeneratedCriteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria$GeneratedCriteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/BookCriteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/User.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/User.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$Criteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$Criteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$Criterion.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$Criterion.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$GeneratedCriteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria$GeneratedCriteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/entity/UserCriteria.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ArgumentInvalidResult.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ArgumentInvalidResult.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/GlobalExceptionHandler.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/GlobalExceptionHandler.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ResponseHandler.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ResponseHandler.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ResponseStatus.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/ResponseStatus.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/SystemException.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/exception/SystemException.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/Constants.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/Constants.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/JwtUtils.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/JwtUtils.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/MD5Utils.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/util/MD5Utils.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/FilterConfig.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/FilterConfig.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/RedisConfig.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/RedisConfig.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/SwaggerConfig.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/config/SwaggerConfig.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/controller/BaseController.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/controller/BaseController.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/filter/HTTPBearerAuthorizeFilter.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/filter/HTTPBearerAuthorizeFilter.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/response/BaseResponse.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/response/BaseResponse.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/AccessToken.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/AccessToken.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/Audience.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/Audience.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/LoginParameter.class" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/com/cjzf/web/vo/security/LoginParameter.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/generatorConfig.properties" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/generatorConfig.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-common/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-common/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/surefire-reports/TEST-com.cjzf.web.config.RedisConfigTest.xml" afterPath="$PROJECT_DIR$/cjzf-common/target/surefire-reports/TEST-com.cjzf.web.config.RedisConfigTest.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/surefire-reports/com.cjzf.web.config.RedisConfigTest.txt" afterPath="$PROJECT_DIR$/cjzf-common/target/surefire-reports/com.cjzf.web.config.RedisConfigTest.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-common/target/test-classes/com/cjzf/web/config/RedisConfigTest.class" afterPath="$PROJECT_DIR$/cjzf-common/target/test-classes/com/cjzf/web/config/RedisConfigTest.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-config-server/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-config-server/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/cjzf-config-server.jar" afterPath="$PROJECT_DIR$/cjzf-config-server/target/cjzf-config-server.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/cjzf-config-server.jar.original" afterPath="$PROJECT_DIR$/cjzf-config-server/target/cjzf-config-server.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-config-server/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/classes/com/cjzf/Config.class" afterPath="$PROJECT_DIR$/cjzf-config-server/target/classes/com/cjzf/Config.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/classes/com/cjzf/security/Encrypt.class" afterPath="$PROJECT_DIR$/cjzf-config-server/target/classes/com/cjzf/security/Encrypt.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-config-server/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-config-server/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-config-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-config-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/surefire-reports/TEST-com.cjzf.ConfigTests.xml" afterPath="$PROJECT_DIR$/cjzf-config-server/target/surefire-reports/TEST-com.cjzf.ConfigTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/surefire-reports/com.cjzf.ConfigTests.txt" afterPath="$PROJECT_DIR$/cjzf-config-server/target/surefire-reports/com.cjzf.ConfigTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-config-server/target/test-classes/com/cjzf/ConfigTests.class" afterPath="$PROJECT_DIR$/cjzf-config-server/target/test-classes/com/cjzf/ConfigTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/schedule/HystrixJob.java" afterPath="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/schedule/HystrixJob.java" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/controller/BookConsumerController.java" afterPath="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/controller/BookConsumerController.java" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/cjzf-consumer-user.jar" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/cjzf-consumer-user.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/cjzf-consumer-user.jar.original" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/cjzf-consumer-user.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/Consumer.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/Consumer.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/filter/RedisFilter.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/filter/RedisFilter.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService$FeignClientFallbackFactory$1.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService$FeignClientFallbackFactory$1.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService$FeignClientFallbackFactory.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService$FeignClientFallbackFactory.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/BookConsumerService.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/TestClient.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/service/TestClient.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/web/config/SwaggerConfigOfConsumer.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/web/config/SwaggerConfigOfConsumer.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/web/controller/BookConsumerController.class" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/com/cjzf/web/controller/BookConsumerController.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-consumer-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/cjzf-monitor-dashboard.jar" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/cjzf-monitor-dashboard.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/cjzf-monitor-dashboard.jar.original" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/cjzf-monitor-dashboard.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/application.properties" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/com/cjzf/Hystrix.class" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/com/cjzf/Hystrix.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/surefire-reports/TEST-com.cjzf.HystrixTests.xml" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/surefire-reports/TEST-com.cjzf.HystrixTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/surefire-reports/com.cjzf.HystrixTests.txt" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/surefire-reports/com.cjzf.HystrixTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/test-classes/com/cjzf/HystrixTests.class" afterPath="$PROJECT_DIR$/cjzf-monitor-dashboard/target/test-classes/com/cjzf/HystrixTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-provider-user/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/src/test/java/com/cjzf/web/controller/BookControllerTest.java" afterPath="$PROJECT_DIR$/cjzf-provider-user/src/test/java/com/cjzf/web/controller/BookControllerTest.java" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/cjzf-provider-user.jar" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/cjzf-provider-user.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/cjzf-provider-user.jar.original" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/cjzf-provider-user.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/Provider.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/Provider.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/service/BookService.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/service/BookService.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/config/SwaggerConfigOfProvider.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/config/SwaggerConfigOfProvider.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/controller/BookController.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/controller/BookController.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/controller/ConfigClientController.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/com/cjzf/web/controller/ConfigClientController.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-provider-user/target/test-classes/com/cjzf/web/controller/BookControllerTest.class" afterPath="$PROJECT_DIR$/cjzf-provider-user/target/test-classes/com/cjzf/web/controller/BookControllerTest.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-service-discovery/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/cjzf-service-discovery.jar" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/cjzf-service-discovery.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/cjzf-service-discovery.jar.original" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/cjzf-service-discovery.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/classes/com/cjzf/Eureka.class" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/classes/com/cjzf/Eureka.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/surefire-reports/TEST-com.cjzf.EurekaTests.xml" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/surefire-reports/TEST-com.cjzf.EurekaTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/surefire-reports/com.cjzf.EurekaTests.txt" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/surefire-reports/com.cjzf.EurekaTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-service-discovery/target/test-classes/com/cjzf/EurekaTests.class" afterPath="$PROJECT_DIR$/cjzf-service-discovery/target/test-classes/com/cjzf/EurekaTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/rabbitmq/QueueConsumer.java" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/rabbitmq/QueueConsumer.java" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/src/main/resources/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/src/main/resources/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/cjzf-zipkin-server.jar" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/cjzf-zipkin-server.jar" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/cjzf-zipkin-server.jar.original" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/cjzf-zipkin-server.jar.original" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/Zipkin.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/Zipkin.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/EndPoint.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/EndPoint.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/Producer.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/Producer.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/QueueConsumer.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/com/cjzf/rabbitmq/QueueConsumer.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/classes/logback-spring.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/TEST-com.cjzf.ZipkinTests.xml" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/TEST-com.cjzf.ZipkinTests.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/TEST-com.cjzf.rabbitmq.ProducerTest.xml" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/TEST-com.cjzf.rabbitmq.ProducerTest.xml" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/com.cjzf.ZipkinTests.txt" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/com.cjzf.ZipkinTests.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/com.cjzf.rabbitmq.ProducerTest.txt" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/surefire-reports/com.cjzf.rabbitmq.ProducerTest.txt" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/test-classes/com/cjzf/ZipkinTests.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/test-classes/com/cjzf/ZipkinTests.class" />
+      <change beforePath="$PROJECT_DIR$/cjzf-zipkin-server/target/test-classes/com/cjzf/rabbitmq/ProducerTest.class" afterPath="$PROJECT_DIR$/cjzf-zipkin-server/target/test-classes/com/cjzf/rabbitmq/ProducerTest.class" />
+      <change beforePath="$PROJECT_DIR$/document/git/dev/spring-cloud-provider-book-dev.properties" afterPath="$PROJECT_DIR$/document/git/dev/spring-cloud-provider-book-dev.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cjzf-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-aggregator/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-zipkin-server/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-service-discovery/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-common/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-admin-server/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-consumer-user/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/cjzf-monitor-dashboard/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BookConsumerService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/service/BookConsumerService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="48" column="38" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JWTController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-api-gateway/src/main/java/com/cjzf/web/controller/JWTController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Audience.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-common/src/main/java/com/cjzf/web/vo/security/Audience.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-common/src/main/java/com/cjzf/web/controller/BaseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvocableHandlerMethod.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <folding>
+                <marker date="1516847462811" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1516847462811" expanded="false" signature="162:711" ph="..." />
+                <marker date="1516847462811" expanded="false" signature="1105:1116" ph=" { " />
+                <marker date="1516847462811" expanded="false" signature="1137:1143" ph=" }" />
+                <marker date="1516847462811" expanded="false" signature="1206:1217" ph=" { " />
+                <marker date="1516847462811" expanded="false" signature="1237:1243" ph=" }" />
+                <marker date="1516847462811" expanded="true" signature="1365:1421" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="1500:1559" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="1669:1728" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="1822:1893" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="2033:2638" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="2788:4133" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="4212:4389" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="4485:4943" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="5008:6165" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="6250:6846" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="6929:7500" ph="{...}" />
+                <marker date="1516847462811" expanded="true" signature="7560:7893" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookConsumerController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/controller/BookConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/filter/RedisFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="70" column="62" lean-forward="false" selection-start-line="70" selection-start-column="62" selection-end-line="70" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/controller/BookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwaggerConfigOfProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/config/SwaggerConfigOfProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$PROJECT_DIR$/../../../lipengpeng/Desktop/cloudLog</find>
+      <find>$PROJECT_DIR$/cloudLog</find>
+      <find>$PROJECT_DIR$/../../../lipengpeng/Desktop/</find>
+      <find>redis</find>
+      <find>mybatis</find>
+      <find>mysql</find>
+      <find>localhost:3307</find>
+      <find>simple_book</find>
+      <find>localhost</find>
+      <find>DiscoveryClient_CJZF-PROVIDER-USER</find>
+      <find>DiscoveryClient</find>
+      <find>rabbitmq</find>
+      <find>spans</find>
+      <find>api/v1</find>
+      <find>3307</find>
+      <find>HikariCP</find>
+      <find>8018</find>
+      <find>api/v1/spans</find>
+      <find>101</find>
+      <find>zipkin</find>
+      <find>elasticsearch</find>
+      <find>gitee.com</find>
+      <find>/books</find>
+      <find>cjzf-api-gateway</find>
+      <find>/api-gateway/v1/</find>
+      <find>/oauth/token</find>
+      <find>audience</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.5.1/HikariCP-2.5.1.jar!/com/zaxxer/hikari</dir>
+      <dir>$PROJECT_DIR$/cjzf-service-discovery</dir>
+      <dir>$PROJECT_DIR$/cjzf-consumer-user</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cjzf-common/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/service/BookService.java" />
+        <option value="$PROJECT_DIR$/document/git/dev/spring-cloud-provider-book-dev.properties" />
+        <option value="$PROJECT_DIR$/cjzf-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cjzf-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cjzf-consumer-user/src/test/java/com/cjzf/web/controller/BookConsumerControllerTest.java" />
+        <option value="$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/controller/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/rabbitmq/QueueConsumer.java" />
+        <option value="$PROJECT_DIR$/cjzf-provider-user/src/test/java/com/cjzf/web/controller/BookControllerTest.java" />
+        <option value="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/schedule/HystrixJob.java" />
+        <option value="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/service/BookConsumerService.java" />
+        <option value="$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/controller/BookConsumerController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cjzf-zipkin-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-api-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cjzf-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="posp_web_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="cjzf-consumer-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Admin">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Admin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cjzf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Admin" />
+      <module name="cjzf-admin-server" />
+      <envs />
+    </configuration>
+    <configuration name="Config" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Config" />
+      <module name="cjzf-config-server" />
+      <envs />
+    </configuration>
+    <configuration name="Consumer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Consumer" />
+      <module name="cjzf-consumer-user" />
+      <envs />
+    </configuration>
+    <configuration name="Eureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Eureka" />
+      <module name="cjzf-service-discovery" />
+      <envs />
+    </configuration>
+    <configuration name="Hystrix" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Hystrix" />
+      <module name="cjzf-monitor-dashboard" />
+      <envs />
+    </configuration>
+    <configuration name="Provider" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Provider" />
+      <module name="cjzf-provider-user" />
+      <envs />
+    </configuration>
+    <configuration name="Turbine" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cjzf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Turbine" />
+      <module name="cjzf-aggregator" />
+      <envs />
+    </configuration>
+    <configuration name="Zipkin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Zipkin" />
+      <module name="cjzf-zipkin-server" />
+      <envs />
+    </configuration>
+    <configuration name="Zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cjzf.Zuul" />
+      <module name="cjzf-api-gateway" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Config" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Zipkin" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Provider" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Eureka" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Consumer" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.Zuul" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.Hystrix" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.Turbine" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.Admin" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Admin" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Turbine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-admin-server" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-admin-server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-aggregator" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-aggregator" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-api-gateway" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-api-gateway" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-common" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-common" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-config-server" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-config-server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-consumer-user" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-consumer-user" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-monitor-dashboard" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-monitor-dashboard" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-provider-user" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-provider-user" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-service-discovery" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-service-discovery" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/cjzf-zipkin-server" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/cjzf-zipkin-server" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b359767-da77-491f-9fcf-b43cd23e9577" name="Default" comment="" />
+      <created>1516847310537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516847310537</updated>
+      <workItem from="1516847314431" duration="407000" />
+      <workItem from="1516858516332" duration="12207000" />
+      <workItem from="1516873419602" duration="38000" />
+      <workItem from="1516873466002" duration="6224000" />
+      <workItem from="1517078849921" duration="821000" />
+      <workItem from="1517305608608" duration="1061000" />
+      <workItem from="1517315209728" duration="8000" />
+      <workItem from="1517917484093" duration="963000" />
+      <workItem from="1517919511921" duration="1327000" />
+      <workItem from="1517975109860" duration="8862000" />
+      <workItem from="1518055974237" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32117000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1302621" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918116" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3602866" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16719618" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="35" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/document/git/dev/spring-cloud-provider-book-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/config/SwaggerConfigOfConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/rabbitmq/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10380">
+          <caret line="747" column="0" lean-forward="false" selection-start-line="747" selection-start-column="0" selection-end-line="747" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/rabbitmq/QueueConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/service/TestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-admin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-admin-server/src/main/java/com/cjzf/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="59" column="22" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-common/src/main/java/com/cjzf/exception/ResponseStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/test/java/com/cjzf/ProviderTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/test/java/com/cjzf/web/controller/BookControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/aggregator.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/api.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/consumer.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/config.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/discovery.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/monitor.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/provider.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/run/run-all.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/java/com/cjzf/Hystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-zipkin-server/src/main/java/com/cjzf/Zipkin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-zipkin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-monitor-dashboard/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-admin-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/schedule/HystrixJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-api-gateway/src/main/java/com/cjzf/web/config/SwaggerConfigOfApiGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-api-gateway/src/main/java/com/cjzf/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/config/SwaggerConfigOfProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/service/BookConsumerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="48" column="38" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding>
+            <marker date="1516847462811" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1516847462811" expanded="false" signature="162:711" ph="..." />
+            <marker date="1516847462811" expanded="false" signature="1105:1116" ph=" { " />
+            <marker date="1516847462811" expanded="false" signature="1137:1143" ph=" }" />
+            <marker date="1516847462811" expanded="false" signature="1206:1217" ph=" { " />
+            <marker date="1516847462811" expanded="false" signature="1237:1243" ph=" }" />
+            <marker date="1516847462811" expanded="true" signature="1365:1421" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="1500:1559" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="1669:1728" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="1822:1893" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="2033:2638" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="2788:4133" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="4212:4389" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="4485:4943" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="5008:6165" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="6250:6846" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="6929:7500" ph="{...}" />
+            <marker date="1516847462811" expanded="true" signature="7560:7893" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/filter/RedisFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="70" column="62" lean-forward="false" selection-start-line="70" selection-start-column="62" selection-end-line="70" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-api-gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-common/src/main/java/com/cjzf/web/vo/security/Audience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-api-gateway/src/main/java/com/cjzf/web/controller/JWTController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-common/src/main/java/com/cjzf/web/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-provider-user/src/main/java/com/cjzf/web/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjzf-consumer-user/src/main/java/com/cjzf/web/controller/BookConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6.4 (/usr/local/Cellar/python3/3.6.4/bin/python3.6) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cjzf-service-discovery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

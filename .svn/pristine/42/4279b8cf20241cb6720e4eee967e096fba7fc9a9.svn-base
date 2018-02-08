@@ -1,0 +1,13 @@
+classPath=/sourcecode/cjzf-cloud/document/driver/mysql-connector-java-5.1.35-bin.jar
+targetProject=/sourcecode/cjzf-cloud/cjzf-common/src/main/java
+targetResource=/sourcecode/cjzf-cloud/cjzf-common/src/main/resources
+driverClass=com.mysql.jdbc.Driver
+connectionURL=jdbc:mysql://localhost:3307/cloud_test?useUnicode=true&amp;characterEncoding=UTF-8
+userId=root
+password=admin
+schema=test
+modelPackage=com.cjzf.entity
+sqlMapperPackage=sqlmap
+daoMapperPackage=com.cjzf.dao
+#mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
+

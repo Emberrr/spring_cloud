@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_GREEN}
+   _       _           _
+  /_\   __| |_ __ ___ (_)_ __
+ //_\\ / _` | '_ ` _ \| | '_ \
+/  _  \ (_| | | | | | | | | | |
+\_/ \_/\__,_|_| |_| |_|_|_| |_|
+
+
+Spring Boot Version: ${AnsiColor.BRIGHT_YELLOW}${spring-boot.version}${spring-boot.formatted-version} ${AnsiColor.BRIGHT_MAGENTA}::
+::${AnsiStyle.FAINT} https://gitee.com/2275/spring-cloud-bk/tree/master/cjzf-admin-server

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cjzf-admin-server/cjzf-admin-server.iml" filepath="$PROJECT_DIR$/cjzf-admin-server/cjzf-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-aggregator/cjzf-aggregator.iml" filepath="$PROJECT_DIR$/cjzf-aggregator/cjzf-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-api-gateway/cjzf-api-gateway.iml" filepath="$PROJECT_DIR$/cjzf-api-gateway/cjzf-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-cloud.iml" filepath="$PROJECT_DIR$/cjzf-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-common/cjzf-common.iml" filepath="$PROJECT_DIR$/cjzf-common/cjzf-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-config-server/cjzf-config-server.iml" filepath="$PROJECT_DIR$/cjzf-config-server/cjzf-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-consumer-user/cjzf-consumer-user.iml" filepath="$PROJECT_DIR$/cjzf-consumer-user/cjzf-consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-monitor-dashboard/cjzf-monitor-dashboard.iml" filepath="$PROJECT_DIR$/cjzf-monitor-dashboard/cjzf-monitor-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-provider-user/cjzf-provider-user.iml" filepath="$PROJECT_DIR$/cjzf-provider-user/cjzf-provider-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-service-discovery/cjzf-service-discovery.iml" filepath="$PROJECT_DIR$/cjzf-service-discovery/cjzf-service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjzf-zipkin-server/cjzf-zipkin-server.iml" filepath="$PROJECT_DIR$/cjzf-zipkin-server/cjzf-zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

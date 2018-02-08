@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cjzf-admin-server" />
+        <module name="cjzf-aggregator" />
+        <module name="cjzf-api-gateway" />
+        <module name="cjzf-common" />
+        <module name="cjzf-config-server" />
+        <module name="cjzf-consumer-user" />
+        <module name="cjzf-monitor-dashboard" />
+        <module name="cjzf-provider-user" />
+        <module name="cjzf-service-discovery" />
+        <module name="cjzf-zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cjzf-admin-server" target="1.8" />
+      <module name="cjzf-aggregator" target="1.8" />
+      <module name="cjzf-api-gateway" target="1.8" />
+      <module name="cjzf-cloud" target="1.8" />
+      <module name="cjzf-common" target="1.8" />
+      <module name="cjzf-config-server" target="1.8" />
+      <module name="cjzf-consumer-user" target="1.8" />
+      <module name="cjzf-monitor-dashboard" target="1.8" />
+      <module name="cjzf-provider-user" target="1.8" />
+      <module name="cjzf-service-discovery" target="1.8" />
+      <module name="cjzf-zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

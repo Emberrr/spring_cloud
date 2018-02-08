@@ -1,0 +1,5 @@
+com/cjzf/service/UserService.class
+com/cjzf/Zuul.class
+com/cjzf/web/controller/JWTController.class
+com/cjzf/web/config/SwaggerConfigOfApiGateway.class
+com/cjzf/web/controller/TestUserPwd.class

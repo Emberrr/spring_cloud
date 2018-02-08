@@ -1,0 +1,4 @@
+com/cjzf/Zipkin.class
+com/cjzf/rabbitmq/QueueConsumer.class
+com/cjzf/rabbitmq/EndPoint.class
+com/cjzf/rabbitmq/Producer.class

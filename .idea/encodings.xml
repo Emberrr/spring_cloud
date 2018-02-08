@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-aggregator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-consumer-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-monitor-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-service-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cjzf-zipkin-server" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+com/cjzf/service/TestClient.class
+com/cjzf/Consumer.class
+com/cjzf/service/BookConsumerService$FeignClientFallbackFactory.class
+com/cjzf/filter/RedisFilter.class
+com/cjzf/web/controller/BookConsumerController.class
+com/cjzf/schedule/HystrixJob.class
+com/cjzf/web/config/SwaggerConfigOfConsumer.class
+com/cjzf/service/BookConsumerService.class
+com/cjzf/service/BookConsumerService$FeignClientFallbackFactory$1.class
